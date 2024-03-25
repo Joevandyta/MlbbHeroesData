@@ -1,0 +1,200 @@
+<resources>
+    <string name="app_name">Data Heroes</string>
+    <!--Section Recycle View-->
+    <string name="heroes_name">Heroes Name</string>
+    <string name="heroes_role">Roles</string>
+    <string-array name="data_name">
+        <item>Benedetta</item>
+        <item>Alucard</item>
+        <item>Brodi</item>
+        <item>Fanny</item>
+        <item>Franco</item>
+        <item>Ling</item>
+        <item>Luo Yi</item>
+        <item>Tigreal</item>
+        <item>Yu Zhong</item>
+        <item>Joy</item>
+    </string-array>
+    <string-array name="data_title">
+        <item>The Shadow Ranger</item>
+        <item>The Demon Hunter</item>
+        <item>The Lone Star</item>
+        <item>The Blade Dancer</item>
+        <item>The Frozen Warrior</item>
+        <item>The Cyan Finch</item>
+        <item>The Yin-yang Geomancer</item>
+        <item>The Warrior of Dawn</item>
+        <item>The Black Dragon</item>
+        <item>Flash of Miracle</item>
+    </string-array>
+    <string-array name="data_heroes_role">
+        <item>Assassin/Fighter</item>
+        <item>Fighter/Assassin</item>
+        <item>Marksman</item>
+        <item>Assassin</item>
+        <item>Tank</item>
+        <item>Assassin</item>
+        <item>Mage</item>
+        <item>Tank</item>
+        <item>Fighter</item>
+        <item>Assassin</item>
+
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/benedetta</item>
+        <item>@drawable/alucard</item>
+        <item>@drawable/brodi</item>
+        <item>@drawable/fanny</item>
+        <item>@drawable/franco</item>
+        <item>@drawable/ling</item>
+        <item>@drawable/luo_yi</item>
+        <item>@drawable/tigreal</item>
+        <item>@drawable/yuzhong</item>
+        <item>@drawable/joy</item>
+    </integer-array>
+    <string-array name="data_speciality">
+        <item>Chase/Burst</item>
+        <item>Chase/Damage</item>
+        <item>Burst/Finisher</item>
+        <item>Chase/Finisher</item>
+        <item>Initiator/Control</item>
+        <item>Chase/Burst</item>
+        <item>Support/Crowd Control</item>
+        <item>Crowd Control</item>
+        <item>Regen/Damage</item>
+        <item>Chase/Damage</item>
+
+    </string-array>
+    <string-array name="data_background">
+        <item>After the Abyss returned, our land becomes plagued and the entire southern part of the Land of Dawn turns into a barren place. Though the high Rantha Mountains blocks the corruption of the Abyss, Mother Nature in the southern realm continues to wither away. This once prosperous land is now nothing but a silent place filled with death, and people call it the “Despair Place”. The only passage that connects the Moniyan Empire is broken, separating the trapped refugees and the exiled wanderers from the rest of the world. They now live in fear and despair, haunted by monsters, yet still struggling to survive.</item>
+        <item>Alucard\'s father was a comrade-in-arms of Tigreal who disappeared in a battle with the Demons. Therefore, he hated darkness, joined the Monastery of Light, and swore to destory all Demons. But later he learned the hidden secrets of this battle, so he left the Monastery of Light in anger and fought the darkness in his own way.</item>
+        <item>Brody lost his memory and wandered aimlessly between the villages of the Barren Lands, but there was always a voice in his heart asking him to hunt the Demons. In countless battles, Brody gradually recalled his past. Once, because of his mistakes, his village was massacred by the Demons and his right hand was also corroded. Now he understands his mission, in order to protect the people around him, Brody will always be fighting in a foreign land.</item>
+        <item>Fanny is the younger sister of Tigreal, who grew up under the protection of her family and her elder brother since she was a child. But Tigreal took the blame for a mistake in battle and left home. Disregarding obstructions from her family, Fanny joined the army, and through her own designed weapons, she successfully completed one task after another, becoming an outstanding fighter who can take care of herself.</item>
+        <item>Franco is the only warrior on the Frozen Ocean who can lead people in the fighter against Bane. In one battle, Franco saw through Bane\'s tricks and finally defeated him. Life was brought back to the Northern Vale under his leadership.</item>
+        <item>Swordsman with a slender body whose whereabouts are unpredictable. Once a disciple of the Great Dragon, after Zilong became the Great Dragon\'s most praised disciple, he left the Great Dragon because of jealousy created the secret organization called Cyan Finch, and look in search of a chance to have a final battle with Zilong.</item>
+        <item>The Fighter attached to the Black Dragon. She was expelled from the Land of Dawn together with the Black Dragon after the Black Dragon failed. With a sense of mission to get freedom and the desire of her family to return to their homeland that had long lost, Luo Yi was determined to inherit her father\'s will. She would soon find the reincarnated Black Dragon, and possibly rebuild Fighter\'s glory.</item>
+        <item>Tigreal is the rising star of the Moniyan Empire. But in a battle, the Second Army that he was leading went deep into the enemy territory alone under the orders of high-level officials and suffered heavy losses, for which Tigreal was eventually forced to take responsibility. Because of this, he left the Empire and came to the Northern Vale. During this period of time, Tigreal finally resolved the problems in his mind. Eventually, he returned to the Empire and became the leader of the Light\'s Order.</item>
+        <item>A reincarnation of the Black Dragon, but Yu Zhong had no memory of the Black Dragon at first. After the Great Dragon accepted him as an apprentice, Yu Zhong went to the Land of Dawn in search of adventure where he met Luo Yi and was awakened by her. After that Yu Zhong rushed into the Forbidden Area to get back the reverse scale [belonging] to the Black Dragon and became the complete Black Dragon.</item>
+        <item>Agile and cunning, known as the most infamous "petty thief" in Lumina City, Joy had longed to have her stomach filled and her heart warmed. In a fortunate turn of events, Joy returned to the Leonins\' land, her wandering heart healed by the simple and unconditional love of her kin. No longer afraid of losing love again, she vowed to protect those around her, to become the golden lightning</item>
+    </string-array>
+    <string-array name="data_heroes_skill">
+        <item>Elapsed Daytime(Pasif)\n
+        Phantom Slash\n
+        An Eye for An Eye\n
+        Alecto: Final Blow\n</item>
+        <item>Pursuit(Pasif)\n
+        Groundsplitter\n
+        Whirling Smash\n
+        Fission Wave\n</item>
+        <item>Abyss Corrosion(Pasif)\n
+        Abyss Impact\n
+        Corrosive Strike\n
+        Torn-Apart Memory\n</item>
+        <item>Air Superiority(Pasif)\n
+        Tornado Strike\n
+        Steel Cable\n
+        Cut Throat\n</item>
+        <item>Wasteland Force(Pasif)\n
+        Iron Hook\n
+        Fury Shock\n
+        Bloody Hunt\n</item>
+        <item>Cloud Walker(Pasif)\n
+        Finch Poise\n
+        Defiant Sword\n
+        Tempest of Blades\n</item>
+        <item>Duality(Pasif)\n
+        Dispersion\n
+        Rotation\n
+        Diversion\n</item>
+        <item>Fearless(Pasif)\n
+        Attack Wave\n
+        Sacred Hammer\n
+        Implosion\n</item>
+        <item>Cursing Touch(Pasif)\n
+        Dragon Tail\n
+        Soul Grip\n
+        Furious Dive\n
+        Black Dragon Form\n</item>
+        <item>Humph, Joy\'s Angry!(Pasif)\n
+        Look, Leonin Crystal!\n
+        Meow, Rhythm of Joy!\n
+        Ha, Electrifying Beats!\n</item>
+    </string-array>
+    <string-array name="data_heroes_species">
+        <item>Female/Human</item>
+        <item>Male/Human</item>
+        <item>Male/Human</item>
+        <item>Female/Human</item>
+        <item>Male/Human</item>
+        <item>Male/Human</item>
+        <item>Female/Human</item>
+        <item>Male/Human</item>
+        <item>Male/Human</item>
+        <item>Female/Leonin</item>
+    </string-array>
+
+    <string-array name="data_heroes_origin">
+        <item>Rantha Mountains</item>
+        <item>Monastery of Light,Moniyan Empire</item>
+        <item>The Barren Lands</item>
+        <item>Imperial Sanctuary, Moniyan Empire</item>
+        <item>Northern Vale</item>
+        <item>Sky Arch, Cadia Riverlands</item>
+        <item>Cadia Riverlands</item>
+        <item>Lumina City, Moniyan Empire</item>
+        <item>Cadia Riverlands</item>
+        <item>Gleaming Marsh, Azrya Woodlands</item>
+
+    </string-array>
+    <string-array name="data_heroes_lane">
+        <item>EXP Lane/Jungling</item>
+        <item>Jungling</item>
+        <item>Gold Lane</item>
+        <item>Jungling</item>
+        <item>Roaming</item>
+        <item>Jungling</item>
+        <item>Mid Lane</item>
+        <item>Roaming</item>
+        <item>EXP Lane</item>
+        <item>EXP Lane/Jungling</item>
+    </string-array>
+    <!--End Section Recycle View-->
+
+
+
+<!--    Menu bar start-->
+    <string name="about">About</string>
+    <string name="heroes_background">Heroes Background</string>
+    <string name="todo">TODO</string>
+
+
+
+
+    <!--    menu bar end-->
+
+<!--    detail hero-->
+
+    <string name="profile"> Heroes Profile</string>
+    <string name="roles">Roles</string>
+    <string name="alias">Alias</string>
+    <string name="speciality">Speciality</string>
+    <string name="origin">Origin</string>
+    <string name="dummy_speciality">Burst Damage</string>
+    <string name="species">Species</string>
+    <string name="reccomended_lane">Lane</string>
+    <string name="skill_dummy">Pursuit(Pasif)\n
+        Groundsplitter\n
+        Whirling Smash\n
+        Fission Wave\n</string>
+    <string name="skill">Skill</string>
+    <string name="dummy_lane">Jungling</string>
+    <string name="dummy_origin">Moniyan Empire</string>
+    <string name="dummy_role">Assassin</string>
+    <string name="dummy_species">Male/Human</string>
+    <string name="dummy_HeroesName">Nama Hero</string>
+    <string name="dummy_background">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt lobortis feugiat vivamus</string>
+<!--    about-->
+    <string name="email">joevandyta@gmail.com</string>
+    <string name="my_name">Joe Aqilla Vandyta</string>
+    <string name="share">Share</string>
+</resources>
